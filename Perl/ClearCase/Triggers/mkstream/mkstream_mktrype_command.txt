@@ -1,0 +1,1 @@
+cleartool mktrtype -ucm -all -postop mkstream -exec "ccperl \\vl2rat002\Trigger_scripts\mkstream.pl RENAME 15" -nc POST_MKSTREAM@\TEST_PVOB

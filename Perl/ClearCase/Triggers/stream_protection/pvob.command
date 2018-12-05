@@ -1,0 +1,1 @@
+H:\>cleartool mktrtype -ucm -all -preop deliver_start,rebase_start,mkbl,chbl -exec "ccperl \\vl2rat002\Trigger_scripts\stream_protection.pl" -nc  STREAM_PROTECT@\Shared_PVOB

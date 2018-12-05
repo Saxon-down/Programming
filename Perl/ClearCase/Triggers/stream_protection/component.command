@@ -1,0 +1,1 @@
+H:\>cleartool mktrtype -element  -all -preop checkout -exec "ccperl \\vl2rat002\Trigger_scripts\stream_protection.pl" -nc  STREAM_PROTECT@\SharedServices

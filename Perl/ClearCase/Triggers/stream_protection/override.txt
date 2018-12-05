@@ -1,0 +1,9 @@
+# Should be of the format "<PVOB> <login> <LAP:0|1> <Admin:0|1>
+# Where 
+#	<PVOB> is the PVOB this override should be applied to (a single pvob, or * for all)
+#	<login> is the user's domain login
+#       0 = is not a member, and
+#       1 = is a member
+# e.g. "* bugs.bunny 1 0" pretends that Bugs Bunny is a LAP but not an admin, for all pvobs
+#
+Play_PVOB garry.short 1 0
