@@ -1,26 +1,3 @@
-'''
-def generateLists(myList) :
-    returnSet = set()
-    for entry in myList :
-        returnSet.add(entry + "()")
-        returnSet.add("()" + entry)
-        returnSet.add("(" + entry + ")")
-    return list(returnSet)
-
-def balanced_parens(n):
-    returnList = []
-    count = 0
-    if n == 0 :
-        returnList.append('')
-    while count < n :
-        count += 1
-        if count == 1 :
-            returnList = ["()"]
-        else :
-            returnList = generateLists(returnList)
-    return sorted(returnList)
-'''
-
 masterList = []
 
 def buildPossible(myDict, count) :
