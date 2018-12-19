@@ -30,10 +30,3 @@ def balanced_parens(count) :
 
 for count in range(3,4) :
     print(balanced_parens(count))
-
-
-'''
-1 = append
-2 = append + append, append + wrap
-3 = append + append + append, append + wrap + append, append + append + wrap, append + wrap + wrap
-'''
