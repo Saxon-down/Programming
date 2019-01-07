@@ -26,10 +26,11 @@ def narc(value) :
 		mysum += (int(d) ** mypower)
 	return mysum == value
 
-if (narc(153)) :
-	print("True")
-else :
-	print("False")
+# if (narc(153)) :
+# 	print("True")
+# else :
+# 	print("False")
+print("True") if narc(153) else print("False")
 
 
 # Best Practice:
