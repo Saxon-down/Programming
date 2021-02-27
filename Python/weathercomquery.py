@@ -5,6 +5,7 @@ from datetime import datetime
 
 locationList = [
     "Flyinge",
+    "Arkelstorp",
     "Jönköping",
     "Töreboda",
     "Karlstad",
