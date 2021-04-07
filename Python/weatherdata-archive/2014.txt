@@ -1,0 +1,368 @@
+City ->;Prague;;;Horsham;;;Arkelstorp;;;Jönköping;;;Östersund;;
+Date;LowTempC;HighTempC;Weather;LowTempC;HighTempC;Weather;LowTempC;HighTempC;Weather;LowTempC;HighTempC;Weather;LowTempC;HighTempC;Weather
+
+2014/01/01;-1;4;Cloudy;6;11;Cloudy;-2;4;Partly Cloudy;0;2;Cloudy;-1;3;Mostly Cloudy
+2014/01/02;-2;3;Partly Cloudy;6;11;Mostly Cloudy;3;6;Fog;1;4;Drizzle;0;1;Light Snow
+2014/01/03;0;6;Sunny;5;11;Partly Cloudy;3;7;Partly Cloudy;2;5;Light Drizzle;0;1;Cloudy
+2014/01/04;4;7;Fair;6;9;Partly Cloudy;2;7;n/a;3;5;Partly Cloudy;1;2;n/a
+2014/01/05;1;6;Light Rain;0;7;Partly Cloudy;4;6;Fog;2;4;n/a;-4;1;Fair
+2014/01/06;2;3;Clear;10;11;Mostly Cloudy;7;7;Cloudy;5;6;Light Drizzle;1;1;Light Snow
+2014/01/07;6;8;Partly Cloudy;9;11;Mostly Cloudy;8;9;Partly Cloudy;6;7;Light Rain;3;4;Fair
+2014/01/08;1;12;Clear;7;11;Cloudy;7;9;Mostly Cloudy;5;6;Light Drizzle;-6;4;Fog
+2014/01/09;1;12;Fair;3;12;Clear;4;9;Rain;0;5;Light Rain;-7;-3;Snow
+2014/01/10;4;11;Sunny;1;9;Mostly Cloudy;4;6;Drizzle;-1;2;Mostly Cloudy;-15;-7;Light Snow
+2014/01/11;0;6;Fair;8;8;Cloudy;5;7;Light Rain;1;5;Partly Cloudy;-15;-14;Light Snow
+2014/01/12;1;3;Cloudy;0;6;n/a;0;1;Snow Grains;-7;-5;Cloudy;-18;-16;Fair
+2014/01/13;1;3;Cloudy;4;8;Partly Cloudy;0;1;Snow Grains;-7;-5;Cloudy;-18;-16;Fair
+2014/01/14;-1;2;Drizzle;0;7;Fair;1;3;Fog;-5;-1;Cloudy;-17;-13;Light Snow
+2014/01/15;0;4;Clear;6;11;Cloudy;1;3;Partly Cloudy;-3;-1;Mostly Cloudy;-17;-12;Light Snow
+2014/01/16;-1;4;Clear;6;10;Mostly Cloudy;1;3;Partly Cloudy;-4;-2;Mostly Cloudy;-14;-10;Light Snow
+2014/01/17;1;5;Mostly Cloudy;5;8;Clear;0;1;Light Snow;-5;-4;Mostly Cloudy;-16;-11;Light Snow
+2014/01/18;-1;3;Fog;7;10;Partly Cloudy;0;1;Snow Grains;-5;-4;Cloudy;-17;-11;Light Snow
+2014/01/19;3;8;Clear;-1;9;Clear;0;1;Cloudy;-5;-3;Mostly Cloudy;-14;-8;Light Snow
+2014/01/20;2;6;Light Rain;-3;9;Partly Cloudy;0;1;Cloudy;-6;-4;Mostly Cloudy;-11;-9;Fair
+2014/01/21;1;1;Rain and Snow;2;7;Partly Cloudy;-1;0;Cloudy;-6;-4;Fair;-13;-10;Light Snow
+2014/01/22;-2;-2;Light Snow;3;5;Clear;-2;-2;Cloudy;-7;-6;Light Snow;-13;-12;Fair
+2014/01/23;-2;-2;Light Snow;3;5;Clear;-2;-2;Cloudy;-7;-6;Light Snow;-13;-12;Fair
+2014/01/24;-4;-2;Light Snow;2;8;Light Rain/Fog;-3;-2;Partly Cloudy;-7;-5;Mostly Cloudy;-14;-12;Fair
+2014/01/25;-13;-4;Fair;4;12;Fair;-6;-2;Cloudy;-8;-5;Light Snow;-12;-7;n/a
+2014/01/26;-15;-6;Mostly Cloudy;3;10;Cloudy;-6;-2;Light Snow;-8;-4;Snow Grains;-11;-8;Light Snow
+2014/01/27;-6;-1;Cloudy;1;8;Fair;-5;-1;Light Snow;-6;-3;Mostly Cloudy;-9;-6;Light Snow
+2014/01/28;-4;-2;Cloudy;4;8;Rain Shower;-3;0;Cloudy;-3;-2;Partly Cloudy;-8;-4;Cloudy
+2014/01/29;-6;-2;Cloudy;3;6;Cloudy;-4;-1;Snow Grains;-6;-2;Light Snow;-7;-4;Cloudy
+2014/01/30;-3;1;Cloudy;-2;6;Fog;-4;-2;Cloudy;-6;-4;Light Snow;-8;-5;Snow Grains
+2014/01/31;-1;3;Cloudy;0;9;Cloudy;-3;-1;Cloudy;-6;-4;Fog;-7;-4;Light Snow
+2014/02/01;-2;2;Cloudy;4;9;Mostly Cloudy;-1;3;Wintry Mix;-4;1;Light Snow;-8;-4;Fog
+2014/02/02;-2;1;Cloudy;4;10;Fair;-2;5;Fog;1;2;Partly Cloudy;-3;2;Cloudy
+2014/02/03;-2;1;Clear;4;8;Clear;-4;2;Fog;-1;2;Fog;-2;4;Fair
+2014/02/04;-5;2;Cloudy;2;8;Mostly Cloudy;-5;3;Fog;-1;1;Cloudy;-6;0;Cloudy
+2014/02/05;-2;1;Cloudy;6;9;Clear;-5;2;Partly Cloudy;-2;-1;Fog;-2;-1;Mostly Cloudy
+2014/02/06;0;8;Clear;6;10;Light Rain;-5;5;Cloudy;-2;2;Light Drizzle;-3;-2;Cloudy
+2014/02/07;0;6;Clear;4;10;Mostly Cloudy;2;6;Light Drizzle;0;3;Light Drizzle;-3;0;Light Snow
+2014/02/08;2;9;Cloudy;5;9;Partly Cloudy;4;6;Unknown Precipitation;2;3;Partly Cloudy;-4;1;n/a
+2014/02/09;3;7;Clear;3;8;Fair;2;7;Partly Cloudy;0;3;Mostly Cloudy;-5;1;Mostly Cloudy
+2014/02/10;-1;7;Clear;3;9;Mostly Cloudy;0;7;n/a;1;3;Mostly Cloudy;1;3;Cloudy
+2014/02/11;1;6;Mostly Cloudy;1;8;Partly Cloudy;-1;3;Cloudy;0;3;Drizzle;-2;2;Fair
+2014/02/12;-3;6;Clear;2;8;Rain Shower;-1;7;Mist;0;3;Mostly Cloudy;-3;0;Partly Cloudy
+2014/02/13;-2;8;Clear;3;7;Fair;-1;7;Fog;0;1;Partly Cloudy;-5;0;Partly Cloudy
+2014/02/14;1;8;Partly Cloudy;-1;12;Cloudy/Windy;0;7;Cloudy;0;3;Cloudy;-1;2;Cloudy
+2014/02/15;-1;9;Mostly Cloudy;4;10;Clear;2;8;n/a;0;4;Partly Cloudy;-1;1;Light Snow
+2014/02/16;4;8;Clear;2;10;Partly Cloudy;5;8;Partly Cloudy;1;4;Mostly Cloudy;0;2;Light Snow
+2014/02/17;1;10;Clear;1;10;Light Rain;3;8;n/a;0;5;Fair;-1;2;Mostly Cloudy
+2014/02/18;-3;8;Clear;4;10;Fair;2;8;Partly Cloudy;0;3;Drizzle;-2;1;Mostly Cloudy
+2014/02/19;2;8;Clear;2;10;Mostly Cloudy;3;7;Partly Cloudy;2;4;Mostly Cloudy;-4;-1;Cloudy
+2014/02/20;3;10;Clear;5;12;Clear;5;8;Partly Cloudy;0;2;Light Snow;-5;-2;Light Snow
+2014/02/21;1;10;Rain Shower;2;9;Fair;4;8;Light Rain;2;6;Partly Cloudy;-6;0;Partly Cloudy
+2014/02/22;1;8;Clear;3;11;Partly Cloudy;4;6;Partly Cloudy;2;4;Light Drizzle;-3;2;n/a
+2014/02/23;-2;10;Clear;8;12;Clear;4;9;n/a;3;6;Mostly Cloudy;1;5;Mostly Cloudy
+2014/02/24;-4;11;Clear;7;13;Partly Cloudy;2;10;n/a;3;8;Fair;5;8;Fair
+2014/02/25;-2;8;Clear;4;11;Fair;-2;5;Fog;0;6;Mostly Cloudy;1;5;Partly Cloudy
+2014/02/26;-2;7;Cloudy;1;11;Clear;-3;6;Fog;1;6;Mostly Cloudy;-1;1;Cloudy
+2014/02/27;-2;9;Clear;1;11;Clear;2;5;Fog;0;5;Cloudy;0;3;Fair
+2014/02/28;-1;8;Clear;1;9;Light Rain;2;4;Fog;0;4;Cloudy;-2;2;Cloudy
+2014/03/01;-2;8;Clear;2;9;Clear;2;4;Fog;0;3;Fog;-1;1;Mostly Cloudy
+2014/03/02;0;12;Fair;-1;9;Light Rain;1;4;Fog;0;2;Mostly Cloudy;-2;0;Cloudy
+2014/03/03;-1;10;Clear;2;8;Clear;1;4;Cloudy;1;4;Mostly Cloudy;-3;1;Fair
+2014/03/04;2;9;Clear;-1;10;Partly Cloudy;2;6;Fog;1;8;Fair;-1;2;Mostly Cloudy
+2014/03/05;1;10;Partly Cloudy;-2;13;Clear;3;5;Cloudy;-3;4;Cloudy;1;3;Fair
+2014/03/06;3;9;Clear;3;12;Clear;0;7;Fog;-4;7;Mostly Cloudy;2;6;Fair
+2014/03/07;1;8;Fair;4;15;Clear;0;10;Light Drizzle;3;10;Drizzle/Windy;0;6;Fair
+2014/03/08;-1;12;Clear;4;14;Clear;0;10;n/a;2;8;n/a;0;3;n/a
+2014/03/09;-3;12;Mist;3;17;Clear;2;15;Mist;3;13;Haze;1;9;Cloudy
+2014/03/10;-1;14;Clear;1;14;Partly Cloudy;3;18;Mist;0;11;Fair;2;6;Partly Cloudy
+2014/03/11;-3;16;Clear;4;11;Partly Cloudy;-1;13;n/a;-5;11;Fair;1;5;Mostly Cloudy
+2014/03/12;-1;14;Clear;1;15;Clear;-2;14;n/a;-3;13;Fair;4;6;Partly Cloudy
+2014/03/13;-2;16;Clear;-1;17;Clear;-1;15;n/a;1;11;Fair;2;8;Mostly Cloudy/Windy
+2014/03/14;0;16;Clear;-1;16;Fair;4;10;Partly Cloudy;-2;9;Light Rain/Windy;-1;3;Partly Cloudy
+2014/03/15;6;11;Cloudy/Windy;6;18;Clear;5;10;Partly Cloudy;1;6;Fair;-6;0;n/a
+2014/03/16;7;13;Mostly Cloudy;7;19;Clear;5;11;Light Rain;0;6;Rain and Snow;-8;-2;Fair
+2014/03/17;9;13;Clear;3;14;Clear;6;10;Partly Cloudy;3;7;Fair;-5;-1;Light Snow
+2014/03/18;7;14;Light Rain;5;13;Fair;6;10;Partly Cloudy;2;6;Drizzle;-12;-2;Light Snow
+2014/03/19;8;10;Partly Cloudy;7;8;Mostly Cloudy;8;10;Cloudy;6;7;Light Rain;-7;-7;Light Snow
+2014/03/20;7;19;Clear;8;13;Rain Shower;8;15;n/a;6;11;Fair;-8;5;Mostly Cloudy
+2014/03/21;8;22;Fair;6;11;Fair;4;14;Mostly Cloudy;2;10;Fair;0;6;Fair
+2014/03/22;9;20;Clear;3;11;Partly Cloudy;3;9;Mist;2;7;Partly Cloudy;0;6;n/a
+2014/03/23;3;9;Light Rain;1;9;Clear;2;10;Mist;1;8;Fair;0;4;Fair
+2014/03/24;2;6;Clear;-2;11;Clear;-3;10;n/a;-4;7;Fair;-3;4;Fair
+2014/03/25;1;7;Clear;4;8;Partly Cloudy;-1;7;Drizzle;-6;4;Light Rain;-5;4;Fair
+2014/03/26;-2;10;Mostly Cloudy;-1;8;Clear;2;3;n/a;1;3;Mostly Cloudy;-5;5;Fair
+2014/03/27;1;14;Clear;-2;11;Fair;2;5;n/a;1;7;Fair;-5;8;Fair
+2014/03/28;3;13;Clear;1;13;Clear;3;9;n/a;-3;10;Fair;-3;11;Fair
+2014/03/29;1;17;Clear;5;18;Clear;3;6;n/a;-6;12;n/a;1;8;n/a
+2014/03/30;3;18;Mist;3;20;Clear;2;8;n/a;-4;15;n/a;-2;4;Cloudy
+2014/03/31;4;16;Fair;7;17;Partly Cloudy;3;10;n/a;-4;5;n/a;-4;4;Cloudy
+2014/04/01;4;16;Fair;3;20;Clear;2;5;n/a;-6;6;n/a;-5;3;Cloudy
+2014/04/02;6;19;Fair;8;19;Clear;2;5;n/a;-5;9;n/a;-6;2;n/a
+2014/04/03;6;21;Fair;9;19;Clear;2;8;n/a;-6;8;Mostly Cloudy;-3;3;Partly Cloudy
+2014/04/04;7;21;Fair;8;14;Cloudy;2;5;n/a;-8;8;n/a;-5;7;n/a
+2014/04/05;8;15;Fair;4;14;Fair;3;6;n/a;-6;10;n/a;-4;7;n/a
+2014/04/06;8;17;Mist;12;15;Cloudy;4;7;Fog;5;12;Fog;-1;8;n/a
+2014/04/07;6;20;Fair;8;14;Partly Cloudy;7;11;Light Rain;4;12;Fog;0;3;Light Drizzle
+2014/04/08;9;21;Fair;5;13;Partly Cloudy;7;11;n/a;5;12;Cloudy;0;1;Partly Cloudy
+2014/04/09;6;11;Fair;2;16;Clear;6;7;n/a;2;6;Drizzle;-2;5;Cloudy
+2014/04/10;4;9;Mostly Cloudy;3;16;Clear;4;8;n/a;1;7;Cloudy;-1;4;Light Snow
+2014/04/11;1;12;Partly Cloudy;6;16;Clear;4;6;Fog;2;10;Cloudy;0;9;n/a
+2014/04/12;5;15;Mostly Cloudy;3;14;Clear;4;8;n/a;2;9;n/a;0;6;n/a
+2014/04/13;8;15;Fair;7;16;Clear;6;10;Light Rain;4;9;Drizzle;2;7;n/a
+2014/04/14;4;12;Fair;6;15;Clear;5;8;Rain;3;11;Mostly Cloudy;1;7;Partly Cloudy
+2014/04/15;2;8;Fair;1;14;Clear;4;8;n/a;-1;9;n/a;-1;5;Partly Cloudy
+2014/04/16;3;11;Mostly Cloudy;0;16;Clear;3;10;n/a;-5;12;n/a;0;7;Mostly Cloudy
+2014/04/17;-1;12;Fair;2;18;Clear;5;8;n/a;2;13;n/a;2;7;Light Drizzle
+2014/04/18;2;9;Fair;6;13;Fair;6;8;Light Rain;1;9;Light Rain;1;7;Cloudy
+2014/04/19;2;20;Fair;2;13;Clear;5;14;n/a;-2;15;n/a;0;11;n/a
+2014/04/20;8;18;Fair;6;13;Cloudy;7;13;n/a;-2;16;n/a;4;12;Cloudy
+2014/04/21;5;17;Fair;2;18;Clear;8;11;n/a;0;18;n/a;4;14;Partly Cloudy
+2014/04/22;7;18;Fair;8;15;Light Rain;8;13;n/a;7;17;Partly Cloudy;0;9;Mostly Cloudy
+2014/04/23;8;20;Fair;5;17;Fair;6;9;n/a;3;13;Partly Cloudy;-2;9;n/a
+2014/04/24;7;20;Clear;9;18;Cloudy;4;9;n/a;1;14;Fair;1;13;n/a
+2014/04/25;10;20;Clear;7;12;Clear;6;9;n/a;0;14;Partly Cloudy;2;15;n/a
+2014/04/26;9;21;Clear;8;14;Fair;6;12;n/a;-3;16;n/a;3;15;n/a
+2014/04/27;9;21;Clear;8;14;Clear;7;13;n/a;-2;18;n/a;3;16;n/a
+2014/04/28;11;20;Clear;6;18;Partly Cloudy;6;13;n/a;-1;21;n/a;3;10;n/a
+2014/04/29;10;18;Cloudy;6;17;Partly Cloudy;7;16;n/a;6;21;n/a;0;7;Cloudy
+2014/04/30;8;20;Clear;6;18;Fog;6;10;n/a;1;13;Partly Cloudy;-1;2;n/a
+2014/05/01;7;21;Clear;8;14;Mostly Cloudy;6;11;Mist;-3;7;Mostly Cloudy;-2;5;Mostly Cloudy
+2014/05/02;4;19;Clear;6;12;Mostly Cloudy;4;9;n/a;-6;9;n/a;-1;6;Partly Cloudy
+2014/05/03;4;8;Showers in the Vicinity;2;13;Clear;6;11;n/a;-1;-1;Fair;-1;6;n/a
+2014/05/04;3;12;Clear;2;15;Clear;6;12;n/a;-2;8;Fair;-1;5;Mostly Cloudy
+2014/05/05;1;13;Clear;1;18;Clear;6;9;n/a;-4;11;Fair;-3;7;n/a
+2014/05/06;3;21;Clear;9;17;Clear;7;8;n/a;4;6;Fair;0;5;Partly Cloudy
+2014/05/07;10;16;Fair;9;16;Fair;7;10;n/a;4;7;Partly Cloudy;-1;4;Unknown Precipitation
+2014/05/08;8;18;Clear;11;15;Cloudy;8;11;Mist;6;9;Partly Cloudy;-1;9;Light Snow
+2014/05/09;12;21;Clear;10;17;Partly Cloudy;8;12;Light Rain;6;14;Partly Cloudy;1;4;Partly Cloudy
+2014/05/10;9;18;Clear;9;16;Partly Cloudy;8;12;Mist;3;12;Mostly Cloudy;2;8;Mostly Cloudy
+2014/05/11;9;16;Light Rain;8;15;Partly Cloudy;8;12;Rain Shower;4;12;Partly Cloudy;3;9;Partly Cloudy
+2014/05/12;8;16;Clear;7;14;Partly Cloudy;9;11;n/a;7;12;Partly Cloudy;5;12;Fair
+2014/05/13;8;14;Clear;6;16;Clear;9;11;n/a;6;11;Fog;2;10;n/a
+2014/05/14;6;12;Mostly Cloudy;4;19;Clear;7;11;n/a;3;14;Mostly Cloudy;1;7;Cloudy
+2014/05/15;5;14;Clear;4;19;Fair;6;12;Mist;2;15;Cloudy;1;10;n/a
+2014/05/16;8;12;Light Rain;6;23;Clear;10;16;n/a;3;21;n/a;7;16;n/a
+2014/05/17;8;12;Light Rain;6;23;Clear;10;16;n/a;3;21;n/a;7;16;n/a
+2014/05/18;9;13;Cloudy;9;23;Fair;11;13;n/a;4;17;n/a;4;22;Mostly Cloudy
+2014/05/19;9;22;Mostly Cloudy;9;25;Clear;10;13;Fog;4;17;Fog;12;20;Fair
+2014/05/20;11;24;Fair;11;21;Partly Cloudy;9;17;n/a;9;18;Fair;11;17;Fair
+2014/05/21;11;26;Fair;7;18;Fair;12;16;n/a;4;24;Fair;10;22;Fair
+2014/05/22;14;28;Fair;11;17;Mostly Cloudy;13;17;n/a;14;27;Fair;14;23;Fair
+2014/05/23;15;27;Light Rain with Thunder;11;17;Sunny;14;16;n/a;16;27;Fair;13;25;Partly Cloudy
+2014/05/24;13;21;Fair;10;16;Partly Cloudy;14;18;Mist;12;19;n/a;12;15;Fog
+2014/05/25;10;22;Fair;7;17;Sunny;13;19;n/a;10;21;Fair;6;12;Light Rain
+2014/05/26;13;23;Light Rain;6;13;Light Rain;14;19;n/a;9;22;Fair;5;7;Partly Cloudy
+2014/05/27;14;17;Fair;10;12;Light Rain;11;11;n/a;7;12;Fair;8;12;Fair
+2014/05/28;13;18;Light Rain;9;14;Cloudy;8;12;n/a;3;12;Fair;3;14;n/a
+2014/05/29;7;12;Cloudy;12;18;Partly Cloudy;8;14;n/a;3;17;n/a;6;18;n/a
+2014/05/30;7;16;Fair;8;16;Sunny;9;21;n/a;2;19;Fair;8;17;Cloudy
+2014/05/31;8;19;Partly Cloudy;5;19;Sunny;12;17;n/a;3;19;Partly Cloudy;6;11;Mostly Cloudy
+2014/06/01;7;19;Fair;12;22;Sunny;11;16;n/a;4;21;Fair;6;17;Fair
+2014/06/02;9;18;Fair;12;20;Partly Cloudy;11;17;n/a;4;19;Fair;10;22;Fair
+2014/06/03;9;18;Fair;11;18;Fair;11;13;n/a;4;14;Light Rain;10;20;Sunny
+2014/06/04;11;22;Fair;7;15;Showers in the Vicinity;12;13;Fog;11;15;Drizzle;9;16;Cloudy
+2014/06/05;11;19;Fair;7;18;Sunny;12;14;n/a;12;19;Mostly Cloudy;12;22;Fair
+2014/06/06;8;23;Fair;4;23;Sunny;12;16;n/a;8;18;Mostly Cloudy;13;20;Partly Cloudy
+2014/06/07;10;27;Fair;12;22;Sunny;13;19;n/a;11;18;Mostly Cloudy;12;19;Light Rain
+2014/06/08;14;24;Fair;9;19;Sunny;12;18;n/a;9;24;Fair;11;20;Fair
+2014/06/09;16;31;Fair;12;24;Rain Shower;16;24;n/a;12;24;Fair;11;16;Partly Cloudy
+2014/06/10;15;31;Fair;11;20;Fair;15;19;n/a;7;24;Fair;10;21;Fair
+2014/06/11;18;31;Fair;9;21;Sunny;15;17;Rain;12;22;Partly Cloudy;11;21;Light Rain
+2014/06/12;17;24;Fair;8;24;Sunny;14;20;n/a;12;20;Fair;10;17;Fair
+2014/06/13;13;21;Fair;9;24;Sunny;12;18;n/a;10;16;Mostly Cloudy;6;12;Fair
+2014/06/14;12;18;Fair;13;22;Sunny;12;18;n/a;5;16;n/a;5;17;Fair
+2014/06/15;11;19;Clear;12;18;Partly Cloudy;12;19;n/a;1;21;Fair;8;12;Mostly Cloudy
+2014/06/16;9;21;Clear;11;18;Mostly Cloudy;13;18;n/a;7;17;Fair;5;10;Mostly Cloudy
+2014/06/17;12;21;Clear;12;21;Fair;12;17;n/a;3;18;Fair;6;10;Mostly Cloudy
+2014/06/18;9;23;Partly Cloudy;12;22;Sunny;13;21;n/a;6;22;Fair;8;12;Mostly Cloudy
+2014/06/19;13;23;Clear;9;22;Mostly Cloudy;12;17;n/a;9;19;Fair;5;11;Mostly Cloudy
+2014/06/20;11;16;Clear;8;22;Sunny;12;18;n/a;4;15;Fair;4;8;n/a
+2014/06/21;12;17;Clear;11;23;Sunny;11;14;n/a;5;13;Partly Cloudy;2;7;Light Rain
+2014/06/22;12;19;Clear;11;24;Sunny;10;14;n/a;4;16;Fair;3;10;Fair
+2014/06/23;11;20;Clear;9;24;Partly Cloudy;11;15;n/a;4;15;Fair;6;15;Fair
+2014/06/24;11;22;Partly Cloudy;11;25;Partly Cloudy;10;16;n/a;5;17;Fair;6;14;Partly Cloudy
+2014/06/25;10;16;Partly Cloudy;11;21;Sunny;11;16;n/a;4;19;Fair;7;13;Fair
+2014/06/26;9;18;Fair;8;21;Light Rain;12;17;n/a;6;17;Fair;6;10;Light Rain
+2014/06/27;9;24;Clear;13;22;Partly Cloudy;13;17;n/a;3;17;Mostly Cloudy;6;10;Cloudy
+2014/06/28;14;26;Clear;10;19;Fair;13;16;n/a;9;13;Partly Cloudy;7;14;n/a
+2014/06/29;14;21;Light Rain;10;19;Sunny;14;16;n/a;11;17;Partly Cloudy;7;12;Light Rain
+2014/06/30;11;19;Partly Cloudy;8;22;Sunny;12;21;n/a;10;17;Partly Cloudy;9;15;Fair
+2014/07/01;11;19;Clear;8;22;Sunny;12;19;n/a;6;18;Mostly Cloudy;8;18;Fair
+2014/07/02;11;22;Clear;7;23;Sunny;13;18;n/a;7;19;Fair;9;19;Fair
+2014/07/03;11;26;Clear;10;24;Sunny;13;17;n/a;11;15;Partly Cloudy;9;17;n/a
+2014/07/04;13;28;Clear;12;24;Partly Cloudy;14;19;n/a;12;22;Fair;8;20;Fair
+2014/07/05;17;27;Light Rain;15;21;Fair;16;19;n/a;12;26;n/a;14;24;n/a
+2014/07/06;18;28;Clear;12;21;Fair;16;23;n/a;14;25;Partly Cloudy;14;23;n/a
+2014/07/07;15;31;Partly Cloudy;7;22;Fair;17;21;Mist;16;27;Fair;11;24;n/a
+2014/07/08;18;28;Light Rain;9;21;Cloudy;18;22;Light Rain/Windy;16;28;Fair;16;25;n/a
+2014/07/09;13;19;Mostly Cloudy;12;22;Sunny;19;23;n/a;18;26;Fair;16;27;n/a
+2014/07/10;12;17;Mostly Cloudy;13;18;Sunny;18;23;n/a;17;27;Fair;18;27;n/a
+2014/07/11;13;23;Partly Cloudy;11;19;Mostly Cloudy;16;21;n/a;14;22;Fair;16;24;n/a
+2014/07/12;13;22;Clear;15;25;Sunny;14;19;n/a;10;20;Light Drizzle;16;24;n/a
+2014/07/13;11;24;Mostly Cloudy;15;24;Fair;16;18;n/a;15;17;Partly Cloudy;13;23;Partly Cloudy
+2014/07/14;15;24;Clear;9;22;Partly Cloudy;16;19;n/a;12;20;Partly Cloudy;15;20;n/a
+2014/07/15;14;27;Clear;15;26;Sunny;16;22;n/a;10;21;Light Rain;15;17;Partly Cloudy
+2014/07/16;17;27;Clear;12;26;Sunny;17;23;n/a;10;20;Fair;12;16;n/a
+2014/07/17;19;27;Clear;13;28;Sunny;15;21;n/a;8;22;Fair;11;21;Light Rain
+2014/07/18;16;29;Clear;18;28;Partly Cloudy;16;22;n/a;10;24;Fair;13;19;Partly Cloudy
+2014/07/19;17;30;Clear;16;28;Sunny;17;23;n/a;8;25;Partly Cloudy;12;22;n/a
+2014/07/20;17;32;Fair;16;24;Rain Shower;18;22;n/a;10;24;Fair;13;24;Partly Cloudy
+2014/07/21;19;29;Thunderstorm;16;25;Partly Cloudy;17;23;n/a;9;25;Fair;16;25;n/a
+2014/07/22;18;27;Clear;13;27;Fair;18;24;n/a;9;26;Fair;17;28;n/a
+2014/07/23;17;27;Clear;16;28;Sunny;18;24;n/a;10;26;Fair;18;27;n/a
+2014/07/24;14;22;Mostly Cloudy;16;28;Sunny;18;24;n/a;9;28;Fair;17;27;n/a
+2014/07/25;14;26;Clear;15;27;Sunny;19;25;n/a;10;28;Fair;18;26;n/a
+2014/07/26;14;28;Clear;17;28;Sunny;19;24;n/a;15;17;Light Rain;16;28;n/a
+2014/07/27;17;30;Clear;14;24;Sunny;20;23;n/a;14;25;n/a;16;28;Partly Cloudy
+2014/07/28;18;27;Clear;13;23;Sunny;19;25;Mist;11;26;Fair;16;23;n/a
+2014/07/29;16;26;Clear;16;26;Sunny;19;24;n/a;14;28;Fair;14;23;n/a
+2014/07/30;18;26;Clear;16;25;Sunny;18;24;n/a;11;23;Fair;14;25;Partly Cloudy
+2014/07/31;18;23;Clear;12;24;Fair;17;23;n/a;12;22;Fair;13;21;Mostly Cloudy
+2014/08/01;14;24;Clear;13;23;Sunny;18;23;n/a;12;24;Fair;12;18;Partly Cloudy
+2014/08/02;17;30;Fair;13;23;Fair;19;22;n/a;12;25;Light Rain;10;22;Cloudy
+2014/08/03;18;28;Mostly Cloudy;9;22;Sunny;21;24;n/a;17;30;Fair;15;23;Partly Cloudy
+2014/08/04;16;23;Clear;11;23;Showers in the Vicinity;19;24;n/a;14;25;Mostly Cloudy;17;29;Partly Cloudy
+2014/08/05;14;23;Clear;9;24;Sunny;16;19;n/a;13;16;Light Rain;16;21;Mostly Cloudy
+2014/08/06;15;24;Clear;16;25;Fair;16;22;n/a;11;22;Fair;15;22;Partly Cloudy
+2014/08/07;13;24;Clear;12;26;Sunny;17;22;n/a;9;23;Fair;14;22;Partly Cloudy
+2014/08/08;17;27;Clear;13;23;Light Rain;19;22;n/a;10;22;Fair;13;22;Partly Cloudy
+2014/08/09;14;28;Mostly Cloudy;12;22;Sunny;17;23;n/a;9;23;Partly Cloudy;14;23;n/a
+2014/08/10;15;31;Clear;14;21;Partly Cloudy;16;21;n/a;10;21;n/a;14;21;Fair
+2014/08/11;15;24;Clear;11;19;Partly Cloudy;18;22;n/a;12;21;Fair;13;20;Cloudy
+2014/08/12;14;22;Fair;11;20;Partly Cloudy;15;21;n/a;10;18;Partly Cloudy;11;18;Fair
+2014/08/13;12;20;Light Rain;11;22;Sunny;17;21;n/a;9;18;Fair;11;18;Fair
+2014/08/14;14;21;Clear;11;19;Partly Cloudy;14;22;n/a;10;20;Fair;10;18;Mostly Cloudy
+2014/08/15;11;21;Light Rain;9;20;Clear;16;21;n/a;10;19;Fair;10;16;Partly Cloudy
+2014/08/16;12;21;Mostly Cloudy;11;19;Partly Cloudy;14;18;n/a;10;19;n/a;7;14;Fair
+2014/08/17;12;20;Clear;13;19;Fair;13;16;Rain Shower;10;14;Partly Cloudy;8;13;Light Rain
+2014/08/18;14;21;Clear;10;19;Clear;13;16;n/a;9;12;Partly Cloudy;9;13;Partly Cloudy
+2014/08/19;11;21;Clear;8;18;Clear;13;17;n/a;9;15;Mostly Cloudy;8;15;Partly Cloudy
+2014/08/20;11;19;Clear;5;18;Clear;12;16;n/a;11;16;Partly Cloudy;10;14;Cloudy
+2014/08/21;11;19;Clear;4;18;Clear;11;16;n/a;9;15;Fair;10;14;Mostly Cloudy
+2014/08/22;9;22;Clear;9;19;Clear;12;16;n/a;8;16;Mostly Cloudy;10;15;Fair
+2014/08/23;9;22;Clear;7;18;Clear;12;17;n/a;8;14;n/a;9;14;Mostly Cloudy
+2014/08/24;8;17;Clear;4;19;Clear;11;17;n/a;8;15;Mostly Cloudy;10;12;Cloudy
+2014/08/25;7;19;Clear;11;17;Light Rain;11;16;n/a;8;14;Partly Cloudy;9;13;Fair
+2014/08/26;11;15;Cloudy;14;17;Mostly Cloudy;11;18;n/a;7;16;Fair;7;16;Fair
+2014/08/27;11;19;Clear;9;19;Cloudy;12;21;n/a;4;19;Fair;9;15;Fair
+2014/08/28;7;21;Clear;13;21;Clear;12;21;n/a;8;18;Partly Cloudy;7;16;Fair
+2014/08/29;10;22;Clear;12;19;Mostly Cloudy;12;18;Rain Shower;3;18;Fair;9;15;Fair
+2014/08/30;12;22;Clear;14;19;Clear;13;14;n/a;11;15;Cloudy;7;15;Fair
+2014/08/31;12;17;Light Rain;10;22;Clear;14;15;n/a;11;16;Mostly Cloudy;8;13;Fair
+2014/09/01;12;16;Cloudy;9;19;Rain Shower;13;17;n/a;8;17;Fair;7;16;Fair
+2014/09/02;12;16;Light Rain;12;22;Clear;11;17;n/a;5;20;Fair;8;16;Fair
+2014/09/03;12;19;Clear;10;23;Clear;13;17;n/a;5;22;Fair;11;19;Fair
+2014/09/04;13;24;Clear;11;21;Mostly Cloudy;14;18;n/a;5;21;Fair;10;18;Partly Cloudy
+2014/09/05;13;26;Clear;10;22;Partly Cloudy;14;19;n/a;3;20;Fair;10;18;Mostly Cloudy
+2014/09/06;14;27;Clear;12;22;Clear;14;17;n/a;7;21;n/a;9;18;Fair
+2014/09/07;13;26;Mostly Cloudy;9;21;Partly Cloudy;15;18;n/a;6;22;Fair;10;16;Fair
+2014/09/08;15;25;Mostly Cloudy;9;22;Clear;15;19;n/a;10;18;Mostly Cloudy;10;16;Fair
+2014/09/09;14;20;Clear;9;21;Mostly Cloudy;12;16;Light Rain;9;14;Mostly Cloudy;11;13;Mostly Cloudy
+2014/09/10;12;18;Clear;7;19;Clear;11;15;n/a;9;15;Mostly Cloudy;10;15;Fair
+2014/09/11;12;18;Rain;7;18;Mostly Cloudy;13;18;Mist;7;18;Shallow Fog;7;17;Partly Cloudy
+2014/09/12;13;19;Mostly Cloudy;11;22;Clear;13;19;n/a;4;19;Fair;8;15;Fair
+2014/09/13;12;21;Clear;11;22;Clear;14;17;Mist;12;14;Partly Cloudy;3;18;Fair
+2014/09/14;15;19;Light Rain;10;22;Clear;15;17;n/a;11;18;Fair;11;16;Partly Cloudy
+2014/09/15;15;22;Clear;12;21;Clear;13;17;n/a;6;18;Fair;9;19;Fair
+2014/09/16;13;23;Fair;11;24;Clear;13;17;n/a;0;17;Fair;7;16;Fair
+2014/09/17;12;22;Clear;12;21;Clear;13;17;Mist;1;18;Fair;7;11;Fog
+2014/09/18;11;22;Clear;14;26;Clear;14;17;Mist;3;18;Partly Cloudy;7;11;Fog
+2014/09/19;11;23;Light Rain;14;25;Clear;14;17;n/a;2;17;Partly Cloudy;7;15;Fair
+2014/09/20;14;22;Clear;15;21;Mostly Cloudy;13;17;Mist;5;20;n/a;6;17;Fair
+2014/09/21;12;20;Light Rain;8;18;Clear;12;16;n/a;7;14;Rain;6;11;Cloudy
+2014/09/22;9;15;Mostly Cloudy;6;18;Clear;8;12;n/a;4;8;Mostly Cloudy;2;7;Fair
+2014/09/23;7;13;Clear;4;18;Clear;6;12;n/a;-1;10;Mostly Cloudy;-2;5;Fair
+2014/09/24;2;15;Clear;9;18;Clear;11;16;n/a;6;12;Rain;-2;4;Cloudy
+2014/09/25;9;16;Clear;4;19;Mostly Cloudy;11;15;n/a;6;12;Fair;4;9;Fair
+2014/09/26;11;14;Light Rain;11;20;Mostly Cloudy;11;16;n/a;6;15;Fair;7;12;Fair
+2014/09/27;9;19;Fair;8;21;Clear;12;17;n/a;9;15;Cloudy;7;11;Light Rain
+2014/09/28;6;19;Clear;11;24;Clear;12;16;n/a;10;15;Mostly Cloudy;8;15;Partly Cloudy
+2014/09/29;8;21;Clear;9;19;Partly Cloudy;12;18;n/a;5;17;Fair;6;10;Partly Cloudy
+2014/09/30;9;18;Sunny;14;22;Sunny;11;14;n/a;-1;14;Fair;4;10;Fair
+2014/10/01;6;14;Partly Cloudy;6;18;Clear;13;17;n/a;9;17;Mist;10;15;Partly Cloudy
+2014/10/02;6;14;Partly Cloudy;6;18;Clear;13;17;n/a;9;17;Mist;10;15;Partly Cloudy
+2014/10/03;6;14;Partly Cloudy;6;18;Clear;13;17;n/a;9;17;Mist;10;15;Partly Cloudy
+2014/10/04;6;14;Partly Cloudy;6;18;Clear;13;17;n/a;9;17;Mist;10;15;Partly Cloudy
+2014/10/05;8;14;Cloudy;1;16;Clear;13;14;n/a;7;16;Fair;10;14;Mostly Cloudy
+2014/10/06;7;16;Fair;4;13;Partly Cloudy;11;13;n/a;7;11;Mostly Cloudy;5;10;Cloudy
+2014/10/07;7;17;Clear;10;17;Light Rain;11;15;Partly Cloudy;6;12;Rain;3;6;Cloudy
+2014/10/08;8;21;Clear;10;17;Light Rain;13;16;Mist;8;15;Fair;1;5;Rain and Snow
+2014/10/09;8;21;Clear;10;17;Light Rain;13;16;Mist;8;15;Fair;1;5;Rain and Snow
+2014/10/10;11;16;Cloudy;6;17;Clear;13;16;n/a;10;14;Partly Cloudy;2;3;Light Rain
+2014/10/11;12;17;Cloudy;6;16;Clear;12;14;Mist;5;15;n/a;1;5;Fog
+2014/10/12;11;18;Partly Cloudy;4;15;Rain Shower;11;15;n/a;6;12;Fair;4;7;Light Drizzle
+2014/10/13;11;19;Clear;11;14;Light Rain;11;12;n/a;5;9;Mostly Cloudy;4;6;Light Rain
+2014/10/14;11;18;Clear;11;13;Cloudy;10;11;n/a;7;9;Cloudy;2;7;Drizzle
+2014/10/15;8;16;Clear;11;15;Rain Shower;10;12;n/a;7;10;Mostly Cloudy;1;3;Cloudy
+2014/10/16;9;18;Mostly Cloudy;11;17;Fair;10;12;n/a;6;9;Mostly Cloudy;-4;0;Cloudy
+2014/10/17;12;16;Clear;13;19;Clear;9;12;n/a;4;9;Fair;-1;2;Fair
+2014/10/18;8;17;Clear;16;20;Showers in the Vicinity;10;13;Mist;5;10;Light Rain;-2;5;Light Rain
+2014/10/19;5;19;Clear;13;18;Partly Cloudy;13;14;n/a;10;15;Mostly Cloudy;0;7;Light Drizzle
+2014/10/20;11;17;Partly Cloudy;11;17;Clear;11;14;n/a;10;12;Mostly Cloudy;0;1;Light Snow
+2014/10/21;7;15;Fair;8;14;Clear;8;12;Light Rain;8;11;Mostly Cloudy;0;2;Snow Grains
+2014/10/22;5;11;Rain Shower;5;14;Mostly Cloudy;8;12;n/a;4;9;Mostly Cloudy;-1;2;Cloudy
+2014/10/23;6;11;Partly Cloudy;11;15;Mostly Cloudy;8;9;n/a;4;5;Mostly Cloudy;0;2;Cloudy
+2014/10/24;2;10;Cloudy;12;16;Partly Cloudy;9;11;Mist;5;10;Mostly Cloudy;2;8;Cloudy
+2014/10/25;2;8;Cloudy;7;14;Mostly Cloudy;9;11;n/a;8;10;Cloudy;8;10;Mostly Cloudy
+2014/10/26;6;11;Cloudy;11;15;Mostly Cloudy;11;13;n/a;7;12;Mostly Cloudy;7;11;Fair
+2014/10/27;2;8;Clear;9;18;Clear;12;14;Mist;11;12;Light Drizzle;5;11;Light Rain
+2014/10/28;-1;9;Clear;10;17;Mostly Cloudy;11;13;Mist;8;15;Fair;5;15;Light Rain
+2014/10/29;-3;6;Cloudy;13;15;Mostly Cloudy;8;11;n/a;2;10;Fair;4;5;Fair
+2014/10/30;4;8;Cloudy;10;18;Fog;7;11;n/a;-1;8;Fair;2;5;Mostly Cloudy
+2014/10/31;6;13;Clear;12;22;Clear;7;11;n/a;1;8;Cloudy;-1;4;Fair
+2014/11/01;6;14;Clear;11;17;Fair;11;12;Fog;6;11;Cloudy;0;4;Fog
+2014/11/02;4;8;Fog;10;16;Clear;11;12;Mist;11;14;Mostly Cloudy;3;9;Fair
+2014/11/03;5;11;Mostly Cloudy;3;11;Clear;12;13;n/a;9;12;Mostly Cloudy;3;9;Fair
+2014/11/04;5;13;Clear;2;12;Light Rain;11;13;Light Rain;5;11;Fair;-3;3;Partly Cloudy
+2014/11/05;6;14;Fair;3;10;Clear;8;11;Light Rain/Windy;1;6;Rain and Snow;-6;-3;Mostly Cloudy
+2014/11/06;7;9;Rain Shower;-2;13;Cloudy;7;9;n/a;0;2;Light Drizzle;-6;-2;Partly Cloudy
+2014/11/07;7;10;Cloudy;7;13;Partly Cloudy;6;9;n/a;1;4;Mostly Cloudy;-7;-4;Cloudy
+2014/11/08;4;12;Clear;5;14;Light Rain;9;11;n/a;4;7;Mostly Cloudy;-5;2;Cloudy
+2014/11/09;3;9;Cloudy;4;13;Partly Cloudy;9;11;Drizzle/Windy;6;8;Mostly Cloudy;2;7;Mostly Cloudy
+2014/11/10;8;12;Mostly Cloudy;6;13;Partly Cloudy;10;11;n/a;6;8;Mostly Cloudy;4;6;Fair
+2014/11/11;8;13;Partly Cloudy;9;13;Rain Shower;9;11;n/a;3;9;Fog;1;5;Mostly Cloudy
+2014/11/12;8;13;Cloudy;8;13;Clear;9;10;Mist/Windy;2;7;Mostly Cloudy;-1;4;Cloudy
+2014/11/13;9;12;Cloudy;8;13;Cloudy;8;9;n/a;6;8;Mostly Cloudy;-2;0;Cloudy
+2014/11/14;5;12;Cloudy;4;14;Fair;9;10;n/a;5;7;Mostly Cloudy;-1;2;Cloudy
+2014/11/15;9;13;Cloudy;4;13;Partly Cloudy;8;9;n/a;4;6;Partly Cloudy;2;3;Partly Cloudy
+2014/11/16;4;13;Clear;6;11;Rain Shower;7;8;Mist/Windy;4;5;Light Drizzle;2;3;Cloudy
+2014/11/17;3;9;Cloudy;7;9;Partly Cloudy;7;8;n/a;3;5;Light Rain;1;2;Cloudy
+2014/11/18;7;8;Cloudy;6;12;Partly Cloudy;6;8;n/a;3;5;Mostly Cloudy;0;2;Cloudy
+2014/11/19;4;7;Cloudy;4;11;Partly Cloudy;4;6;n/a;2;3;Drizzle;-1;2;Partly Cloudy
+2014/11/20;3;6;Cloudy;4;10;Fog;5;6;n/a;2;3;Mostly Cloudy;-4;0;Cloudy
+2014/11/21;3;5;Cloudy;6;11;Cloudy;4;6;n/a;-1;4;Fog;-5;-1;Mostly Cloudy
+2014/11/22;0;6;Partly Cloudy;11;14;Cloudy;4;7;n/a;-4;2;Fog;-5;-1;Fog
+2014/11/23;-1;6;Cloudy;4;13;Mostly Cloudy;7;8;n/a;2;5;Mostly Cloudy;-3;1;Light Snow
+2014/11/24;3;6;Cloudy;-2;8;Fog;7;8;n/a;5;6;Mostly Cloudy;1;2;Snow
+2014/11/25;1;4;Cloudy;-2;9;Rain Shower;4;8;n/a;0;6;Fog;1;4;Fair
+2014/11/26;-3;3;Partly Cloudy;7;10;Light Rain/Fog;3;6;n/a;-2;2;Mostly Cloudy;-5;3;Fair
+2014/11/27;1;3;Cloudy;7;11;Partly Cloudy;5;8;n/a;0;2;Mostly Cloudy;-5;1;Fair
+2014/11/28;1;2;Cloudy;8;12;Clear;3;6;n/a;-1;2;Cloudy;-8;-1;Fog
+2014/11/29;0;2;Cloudy;4;14;Clear;2;4;n/a;-2;0;n/a;-8;-2;Cloudy
+2014/11/30;-1;3;Cloudy;3;11;Mostly Cloudy;3;4;n/a;-6;1;Fair;-1;0;Mostly Cloudy
+2014/12/01;-2;0;Light Freezing Rain;5;9;Mostly Cloudy;1;3;n/a;-7;-1;Mostly Cloudy;-2;0;Fair
+2014/12/02;-2;-1;Cloudy;5;8;Mostly Cloudy;2;3;n/a;-1;0;Mostly Cloudy;-1;2;Partly Cloudy
+2014/12/03;-1;3;Cloudy;3;8;Cloudy;1;3;n/a;-3;1;Mist;1;7;Partly Cloudy
+2014/12/04;3;7;Cloudy;2;6;Mostly Cloudy;2;4;n/a;-4;-1;Light Snow;3;7;Fair
+2014/12/05;4;6;Cloudy;2;6;Clear;3;6;n/a;-3;1;Mostly Cloudy;0;3;Fair
+2014/12/06;3;4;Fog;-2;6;Partly Cloudy;2;6;n/a;-2;4;Fair;-2;2;Partly Cloudy
+2014/12/07;3;4;Cloudy;2;11;Clear;2;6;n/a;-1;4;Mostly Cloudy;-1;2;Fair
+2014/12/08;-3;4;Fair;-1;7;Clear;3;5;n/a;1;4;Partly Cloudy;-2;1;Fair
+2014/12/09;-6;-2;Fog;-2;11;Fog;3;5;n/a;2;4;Mostly Cloudy;-2;1;Fair
+2014/12/10;-3;2;Partly Cloudy;4;12;Clear;3;6;n/a;0;3;Light Rain;0;3;Fair
+2014/12/11;1;6;Rain Shower;6;10;Partly Cloudy;3;6;n/a;1;2;Mostly Cloudy;-1;2;Cloudy
+2014/12/12;2;9;Mostly Cloudy/Windy;2;11;Clear;4;7;n/a;0;2;Light Snow;-2;0;Cloudy
+2014/12/13;7;12;Clear;-3;6;Clear;3;6;n/a;0;4;n/a;-7;0;n/a
+2014/12/14;5;9;Cloudy;-4;10;Mostly Cloudy;3;5;n/a;1;3;Mostly Cloudy;-5;4;Partly Cloudy
+2014/12/15;5;11;Clear;3;10;Partly Cloudy;3;6;n/a;1;3;Rain and Snow;-1;5;Cloudy
+2014/12/16;2;6;Cloudy;-2;8;Mostly Cloudy;4;6;n/a;-1;2;Mostly Cloudy;-10;-1;Mostly Cloudy
+2014/12/17;2;5;Cloudy;7;13;Mostly Cloudy;3;5;n/a;-3;2;Fog;-10;-5;Fair
+2014/12/18;4;10;Cloudy;11;13;Mostly Cloudy;4;8;n/a;1;7;Mostly Cloudy;-10;-6;Cloudy
+2014/12/19;6;12;Light Rain;3;12;Clear;4;9;n/a;1;8;Partly Cloudy;-10;-6;Fair
+2014/12/20;3;7;Cloudy/Windy;3;9;Clear;3;4;n/a;-2;3;Fair;-10;-1;Cloudy
+2014/12/21;3;6;Mostly Cloudy/Windy;4;11;Mostly Cloudy;2;6;n/a;-3;4;Drizzle;-9;-1;Partly Cloudy
+2014/12/22;5;8;Partly Cloudy/Windy;10;13;Partly Cloudy;6;8;n/a;4;6;Partly Cloudy;-8;-5;Partly Cloudy
+2014/12/23;8;10;Mostly Cloudy;10;12;Mostly Cloudy;5;7;n/a;2;5;Fair;-6;-4;Light Snow
+2014/12/24;3;8;Cloudy;3;11;Clear;3;5;Rain Shower;-5;3;Partly Cloudy;-16;-6;Snow Grains
+2014/12/25;2;8;Cloudy;0;8;Clear;-3;1;n/a;-13;-4;n/a;-16;-3;Light Snow
+2014/12/26;-4;2;Fair;-2;10;Rain Shower;-5;0;n/a;-14;-2;Partly Cloudy;-8;-3;n/a
+2014/12/27;-7;-3;Cloudy;2;8;Mostly Cloudy;-2;1;n/a;-11;-2;Mostly Cloudy;-17;-8;Fog
+2014/12/28;-9;-4;Mostly Cloudy;-4;5;Clear;-6;-3;n/a;-14;-7;Cloudy;-20;-11;Light Snow
+2014/12/29;-8;-3;Mostly Cloudy;-4;5;Clear;-6;-3;n/a;-12;-3;Light Snow;-12;2;Mostly Cloudy
+2014/12/30;-13;-4;Cloudy;-5;4;Clear;1;3;Mist;-3;0;Partly Cloudy;2;6;Cloudy
+2014/12/31;-5;1;Fog;-5;7;Partly Cloudy;3;5;n/a;-1;3;Partly Cloudy;5;7;Mostly Cloudy

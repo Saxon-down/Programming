@@ -1,0 +1,399 @@
+City ->;Kiruna;;;Kiruna;;;Kiruna;;
+Date;LowTempC;HighTempC;Weather;LowTempC;HighTempC;Weather;LowTempC;HighTempC;Weather
+
+2013/01/01;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/02;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/03;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/04;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/05;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/06;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/07;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/08;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/09;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/10;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/11;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/12;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/13;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/14;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/15;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/16;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/17;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/18;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/19;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/20;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/21;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/22;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/23;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/24;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/25;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/26;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/27;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/28;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/29;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/30;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/01/31;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/01;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/02;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/03;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/04;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/05;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/06;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/07;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/08;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/09;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/10;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/11;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/12;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/13;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/14;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/15;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/16;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/17;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/18;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/19;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/20;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/21;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/22;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/23;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/24;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/25;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/26;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/27;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/02/28;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/01;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/02;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/03;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/04;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/05;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/06;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/07;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/08;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/09;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/10;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/11;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/12;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/13;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/14;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/15;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/16;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/17;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/18;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/19;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/20;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/21;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/22;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/23;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/24;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/25;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/26;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/27;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/28;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/29;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/30;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/03/31;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/01;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/02;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/03;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/04;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/05;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/06;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/07;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/08;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/09;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/10;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/11;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/12;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/13;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/14;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/15;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/16;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/17;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/18;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/19;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/20;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/21;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/22;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/23;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/24;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/25;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/26;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/27;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/28;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/29;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/04/30;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/01;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/02;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/03;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/04;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/05;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/06;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/07;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/08;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/09;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/10;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/11;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/12;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/13;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/14;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/15;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/16;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/17;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/18;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/19;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/20;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/21;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/22;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/23;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/24;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/25;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/26;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/27;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/28;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/29;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/30;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/05/31;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/01;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/02;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/03;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/04;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/05;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/06;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/07;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/08;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/09;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/10;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/11;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/12;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/13;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/14;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/15;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/16;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/17;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/18;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/19;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/20;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/21;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/22;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/23;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/24;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/25;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/26;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/27;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/28;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/29;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/06/30;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/01;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/02;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/03;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/04;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/05;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/06;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/07;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/08;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/09;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/10;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/11;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/12;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/13;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/14;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/15;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/16;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/17;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/18;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/19;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/20;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/21;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/22;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/23;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/24;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/25;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/26;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/27;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/28;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/29;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/30;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/07/31;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/01;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/02;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/03;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/04;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/05;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/06;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/07;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/08;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/09;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/10;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/11;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/12;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/13;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/14;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/15;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/16;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/17;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/18;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/19;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/20;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/21;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/22;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/23;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/24;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/25;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/26;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/27;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/28;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/29;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/30;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/08/31;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/01;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/02;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/03;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/04;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/05;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/06;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/07;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/08;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/09;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/10;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/11;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/12;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/13;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/14;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/15;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/16;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/17;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/18;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/19;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/20;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/21;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/22;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/23;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/24;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/25;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/26;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a
+2013/09/27;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/09/28;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/09/29;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/09/30;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/01;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/02;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/03;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/04;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/05;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/06;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/07;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/08;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/09;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/10;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/11;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/12;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/13;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/14;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/15;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/16;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/17;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/18;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/19;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/20;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/21;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/22;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/23;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/24;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/25;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/26;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/27;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/28;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/29;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/30;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/10/31;9;11;Sunny;1;3;Fair;-11;-6;Fair
+2013/11/01;9;12;Light Rain;-2;4;Fair;-13;-9;Mostly Cloudy
+2013/11/02;6;10;Mostly Cloudy;-2;1;Fog;-11;-3;Cloudy
+2013/11/03;7;11;Partly Cloudy/Windy;-4;2;Cloudy;-6;-3;Cloudy
+2013/11/04;6;8;Light Rain;1;4;Cloudy;-5;-1;Snow
+2013/11/05;4;12;Cloudy;0;4;Cloudy;-14;-4;Fair
+2013/11/06;2;8;Mostly Cloudy;1;3;Mostly Cloudy;-12;-4;Mostly Cloudy
+2013/11/07;3;9;Partly Cloudy;-1;1;Partly Cloudy;-7;-4;Cloudy
+2013/11/08;6;11;Partly Cloudy;-2;1;Fair;n/a;n/a;n/a
+2013/11/09;6;10;Mostly Cloudy/Windy;-2;3;n/a;n/a;n/a;n/a
+2013/11/10;4;7;Cloudy;-2;2;Fair;n/a;n/a;n/a
+2013/11/11;3;8;Mostly Cloudy;-2;2;Fair;n/a;n/a;n/a
+2013/11/12;6;8;Mostly Cloudy;2;5;Fair;n/a;n/a;n/a
+2013/11/13;6;9;Partly Cloudy;1;4;Partly Cloudy;n/a;n/a;n/a
+2013/11/14;3;9;Cloudy;-1;2;Fair;n/a;n/a;n/a
+2013/11/15;2;8;Light Rain;-2;7;Light Drizzle;n/a;n/a;n/a
+2013/11/16;8;11;Light Rain;4;11;Partly Cloudy;n/a;n/a;n/a
+2013/11/17;0;11;Sunny;1;4;Fair;n/a;n/a;n/a
+2013/11/18;0;7;Mostly Cloudy;1;4;Fair;n/a;n/a;n/a
+2013/11/19;5;8;Light Rain;-2;3;Fair;n/a;n/a;n/a
+2013/11/20;2;5;Partly Cloudy;-6;-2;Fair;n/a;n/a;n/a
+2013/11/21;2;5;Mostly Cloudy;-10;-5;Partly Cloudy;n/a;n/a;n/a
+2013/11/22;3;6;Mostly Cloudy;-10;1;Mostly Cloudy;n/a;n/a;n/a
+2013/11/23;3;7;Partly Cloudy;-3;3;Partly Cloudy;n/a;n/a;n/a
+2013/11/24;0;7;Sunny;-4;1;Mostly Cloudy;n/a;n/a;n/a
+2013/11/25;-2;3;Sunny;-3;1;Fair;n/a;n/a;n/a
+2013/11/26;-4;4;Sunny;0;6;Mostly Cloudy;n/a;n/a;n/a
+2013/11/27;4;9;Light Rain;0;8;Partly Cloudy/Windy;n/a;n/a;n/a
+2013/11/28;6;9;Clear;-1;2;Mostly Cloudy;n/a;n/a;n/a
+2013/11/29;3;6;Mostly Cloudy;-4;0;Fair;n/a;n/a;n/a
+2013/11/30;2;6;Cloudy;-4;2;Mostly Cloudy;n/a;n/a;n/a
+2013/12/01;4;9;Clear;-2;3;Partly Cloudy;n/a;n/a;n/a
+2013/12/02;-3;7;Clear;-2;6;Partly Cloudy;n/a;n/a;n/a
+2013/12/03;4;6;Light Rain;0;6;Fair;n/a;n/a;n/a
+2013/12/04;4;7;Partly Cloudy;-3;1;Partly Cloudy;n/a;n/a;n/a
+2013/12/05;3;6;Mostly Cloudy/Windy;-7;-1;Fair;n/a;n/a;n/a
+2013/12/06;1;4;Rain Shower/Windy;-8;-5;Mostly Cloudy;n/a;n/a;n/a
+2013/12/07;-4;2;Partly Cloudy/Windy;-12;-7;Fair;n/a;n/a;n/a
+2013/12/08;-7;8;Cloudy;-12;-8;Mostly Cloudy;n/a;n/a;n/a
+2013/12/09;3;7;Mostly Cloudy;-9;-4;Cloudy;n/a;n/a;n/a
+2013/12/10;6;8;Cloudy;-4;4;Fair;n/a;n/a;n/a
+2013/12/11;5;7;Light Rain;1;10;Mostly Cloudy;n/a;n/a;n/a
+2013/12/12;2;6;Mostly Cloudy;2;8;Partly Cloudy;n/a;n/a;n/a
+2013/12/13;3;7;Light Rain;-6;2;Fair;n/a;n/a;n/a
+2013/12/14;3;6;Cloudy;-4;-2;Light Snow;n/a;n/a;n/a
+2013/12/15;3;8;Light Rain;-5;2;n/a;n/a;n/a;n/a
+2013/12/16;5;9;Cloudy;1;6;Partly Cloudy;n/a;n/a;n/a
+2013/12/17;0;8;Clear;-1;2;Fair;n/a;n/a;n/a
+2013/12/18;-1;6;Mostly Cloudy;-2;1;Fair;n/a;n/a;n/a
+2013/12/19;4;7;Light Rain/Fog;0;1;Cloudy;n/a;n/a;n/a
+2013/12/20;2;6;Light Rain;-6;1;Fair;n/a;n/a;n/a
+2013/12/21;5;6;Mostly Cloudy;-9;3;Partly Cloudy;n/a;n/a;n/a
+2013/12/22;5;7;Mostly Cloudy;-1;3;Light Snow;n/a;n/a;n/a
+2013/12/23;3;6;Mostly Cloudy;-4;1;Fair;n/a;n/a;n/a
+2013/12/24;6;10;Light Rain;-4;6;Cloudy;n/a;n/a;n/a
+2013/12/25;4;9;Cloudy;2;5;Fair;n/a;n/a;n/a
+2013/12/26;-2;6;Clear;0;5;Fair;n/a;n/a;n/a
+2013/12/27;4;6;Light Rain;0;1;Fair;n/a;n/a;n/a
+2013/12/28;3;7;Clear;1;5;Mostly Cloudy;n/a;n/a;n/a
+2013/12/29;3;6;Mostly Cloudy;1;4;Fair;n/a;n/a;n/a
+2013/12/30;3;6;Mostly Cloudy;-2;2;Fair;n/a;n/a;n/a
+2013/12/31;2;6;Sunny;-1;3;Mostly Cloudy;n/a;n/a;n/a
+2014/01/01;2;4;Mostly Cloudy;-1;3;Mostly Cloudy;n/a;n/a;n/a
+2014/01/02;2;5;Fog;0;1;Cloudy;-6;0;Light Snow
+2014/01/03;4;7;Rain Shower;0;1;Cloudy;-1;0;Mostly Cloudy
+2014/01/04;4;7;Sunny;1;2;Partly Cloudy;-2;-1;Cloudy
+2014/01/05;5;5;Fair;-4;1;Fair;-1;-1;Mostly Cloudy
+2014/01/06;6;7;Mostly Cloudy;1;1;Light Snow;-6;-5;Fog
+2014/01/07;7;8;Mostly Cloudy;3;4;Cloudy;-4;-3;Light Snow
+2014/01/08;7;8;Mostly Cloudy;-6;4;n/a;-7;-3;Light Snow
+2014/01/09;4;8;Cloudy;-7;-3;Light Snow;-18;-8;Light Snow
+2014/01/10;4;7;Cloudy;-15;-7;Light Snow;-19;-15;Cloudy
+2014/01/11;4;6;Partly Cloudy;-15;-14;Light Snow;-24;-16;Fair
+2014/01/12;3;5;n/a;-18;-16;Light Snow;-21;-14;Mostly Cloudy
+2014/01/13;-1;2;Light Snow;-18;-16;Light Snow;-21;-14;Mostly Cloudy
+2014/01/14;1;4;Light Rain;-17;-13;Light Snow;-27;-17;Fair
+2014/01/15;1;3;Mostly Cloudy;-17;-12;Light Snow;-23;-11;Fog
+2014/01/16;0;2;Light Snow;-14;-10;Mostly Cloudy;-28;-21;Fair
+2014/01/17;0;2;Light Snow/Windy;-16;-11;Light Snow;-29;-20;Fair
+2014/01/18;1;2;Cloudy;-17;-11;Light Snow;-28;-22;Fair
+2014/01/19;0;2;Cloudy;-14;-8;Clear;-24;-17;Fair
+2014/01/20;-1;1;Partly Cloudy;-11;-9;Fair;-25;-18;Fair
+2014/01/21;-1;1;Cloudy/Windy;-13;-10;Light Snow;-22;-14;Mostly Cloudy
+2014/01/22;-4;-2;Mostly Cloudy;-13;-12;Fair;-30;-28;n/a
+2014/01/23;-4;-2;Mostly Cloudy;-13;-12;Fair;-30;-28;n/a
+2014/01/24;-6;-2;Mostly Cloudy;-14;-12;Fair;-30;-25;Fair
+2014/01/25;-7;-3;Mostly Cloudy;-12;-7;n/a;-35;-28;Fair
+2014/01/26;-8;-3;Light Snow;-11;-8;Fair;-29;-18;Mostly Cloudy
+2014/01/27;-7;-2;Cloudy;-9;-6;Light Snow;-27;-12;Light Snow
+2014/01/28;-3;0;Snow Shower;-8;-4;Mostly Cloudy;-18;-13;Light Snow
+2014/01/29;-6;-3;Light Snow;-7;-4;Cloudy;-17;-11;Fair
+2014/01/30;-5;-2;Mostly Cloudy;-8;-5;Light Snow;-16;-13;Fair
+2014/01/31;-3;-1;Light Snow;-7;-4;Light Snow;-15;-10;Light Snow
