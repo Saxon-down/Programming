@@ -92,7 +92,7 @@ def archiveWeatherData(fileHeader, data, location, monthly=False, month="no"):
     archive = open(filename, 'w')
     archive.write(fileHeader)
     for entry in data:
-        archive.write(";".join(entry))
+        archive.write(";".join(entry)+"\n")
     archive.close()
 
 
