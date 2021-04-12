@@ -55,15 +55,15 @@ import os
 first = 0   # The first element in the tuple, for readability
 last = 1    # The last element in the tuple, for readability
 years = (2014,2021) # Tuple to define range of years
-months = (1,12)      # Tuple to define range of months
+months = (1,1)      # Tuple to define range of months
 days = (1,31)        # Tuple to define range of days
 
 
 locationList = [
-    "Horsham",
-    "Malmö",
+#    "Horsham",
+#    "Malmö",
     "Östersund",
-    "Kiruna",
+#    "Kiruna",
 ]
 
 # Define & generate headers for CSV files
@@ -101,22 +101,22 @@ def buildFileHeader():
     # the first lists the fields, the second the years for each field
     myTopHeader = []
     myTopHeader.append("Weather")
-    for y in range(years[first], years[last]-1): myTopHeader.append("")
+    for y in range(years[first], years[last]): myTopHeader.append("")
     myTopHeader.append("Date")
     myTopHeader.append("Low Temp (C)")
-    for y in range(years[first], years[last]-1): myTopHeader.append("")
+    for y in range(years[first], years[last]): myTopHeader.append("")
     myTopHeader.append("Date")
     myTopHeader.append("High Temp (C)")
     #
-    for y in range(years[first], years[last]-1): myTopHeader.append("")
+    for y in range(years[first], years[last]): myTopHeader.append("")
     myMainHeader = []
-    for y in range(years[first], years[last]): myMainHeader.append(str(y))
+    for y in range(years[first], years[last]+1): myMainHeader.append(str(y))
     myMainHeader.append("")
-    for y in range(years[first], years[last]): myMainHeader.append(str(y))
+    for y in range(years[first], years[last]+1): myMainHeader.append(str(y))
     myMainHeader.append("")
-    for y in range(years[first], years[last]): myMainHeader.append(str(y))
+    for y in range(years[first], years[last]+1): myMainHeader.append(str(y))
     #
-    return "\n".join([
+    return "\n".join([ 
         ";".join(myTopHeader), 
         ";".join(myMainHeader),""
     ])
